@@ -1,11 +1,12 @@
-#9/24 Lab Notes
+#Lab Notes 9-24
 
-In our current world, almost every vector has its own specific format.
-One format called plaintext, one editorial environment.
-When you're in control, you control encryption, etc. And you can become much more proficient.
-Need to make sure that environment is extensible.
-With opensource editors, you're not buying into a proprietary system if you use markdown.
-Mashable has a list of 78
+In our current world, almost every vector has its own specific format.  
+One format called plaintext, one editorial environment.  
+When you're in control, you control encryption, etc. And you can become much more 
+proficient.  
+Need to make sure that environment is extensible.  
+With opensource editors, you're not buying into a proprietary system if you use markdown.  
+Mashable has a list of 78  
 
 -Markdown-
 Not identifying stylistic elements; identifying semantic elements.

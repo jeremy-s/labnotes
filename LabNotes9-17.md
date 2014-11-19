@@ -1,12 +1,13 @@
 #9/17
+
 Technology alters your phenomenological perception of the world.
 
 Filing systems are a janitorial problem. But not JUST a janitorial problem.
 
 	The way we organize files is related to the way we publish.
 
-Is knowledge production only abstract? No. It has a material component.
-When we think of documents, we think of them as things. Points.
+Is knowledge production only abstract? No. It has a material component.  
+When we think of documents, we think of them as things. Points.  
 
 	What if we thought of them as lines/vectors? (From one brain to another)
 		transportation (even electronic), through time
