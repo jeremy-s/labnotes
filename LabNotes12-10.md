@@ -26,4 +26,6 @@ Glacier: Not live, but very stable.
 
 Snapshots: ways to capture all the data simultaneously. You can share snapshots, etc. Instead of copying stuff you can just give someone access to it so they can mount it to their own server. Many government websites do this now. Like giving you a hard drive.
 
+You can also image the whole server. Just take a snapshot, make it available. Yay.
+
 You can automate all this in order to orchestrate. All of this is scriptable. You can elastically automate scalability.
